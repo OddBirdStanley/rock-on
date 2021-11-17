@@ -1,0 +1,17 @@
+{
+	"parent:": "",
+	"display": {
+		"icon": { "item": "minecraft:flint_and_steel" },
+		"title": { "translate": "advancements.almost_there.title" },
+		"description": { "translate": "advancements.almost_there.description" },
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": true
+	},
+	"rewards": { "experience": 100 },
+	"criteria": {
+	},
+	"requirements": [
+	]
+}

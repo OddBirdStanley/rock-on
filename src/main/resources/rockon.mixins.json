@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "net.oddbirds.rockon.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"refmap": "rockon.refmap.json",
+	"mixins": [
+		"MixinRaid",
+		"MixinMansionTemplate",
+		"MixinStructurePiece",
+		"MixinTemplateStructurePiece"
+	],
+	"minVersion": "0.8"
+}

@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU GPLv3"
+#issueTrackerURL=""
+
+[[mods]]
+modId="rockon"
+version="1.0.0"
+displayName="Rock On"
+#updateJSONURL=""
+#displayURL=""
+#logoFile=""
+#credits=""
+authors="OddBirdS"
+description='''
+Integrates bedrock features, improves the advancement system, and brings common sense back to Minecraft.
+'''
